@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1640797112 source:c:\users\grzesiek\documents\c++ od zera do gier kodera\test\tic-tak-toe\main.cpp
+	<iostream>
+	<conio.h>
+	"game.h"
+
+1640796964 c:\users\grzesiek\documents\c++ od zera do gier kodera\test\tic-tak-toe\game.h
+
+1640797423 source:c:\users\grzesiek\documents\c++ od zera do gier kodera\test\tic-tak-toe\game.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	"game.h"
+
